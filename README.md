@@ -67,4 +67,5 @@ Decision Tree Model: Accuracy of 98.63%.
 These results highlight the models' effectiveness in identifying fraudulent activities with high accuracy.
 
 Conclusion
+
 The development of this machine learning system has yielded highly accurate models for detecting and preventing fraudulent online transactions. By leveraging data preprocessing, feature engineering, and advanced algorithms, this project provides a robust solution to enhance transaction security and protect financial systems from fraud.
