@@ -1,4 +1,4 @@
-# -ONLINE_PAYMENT_FRAUD_DETECTION--ML
+# -Online_Payment_Fraud_Detection--ML
 Objective
 
 Create a machine learning system to detect and prevent fraudulent online transactions.
