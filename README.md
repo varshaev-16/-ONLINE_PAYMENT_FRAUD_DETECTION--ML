@@ -1,8 +1,11 @@
 # -ONLINE_PAYMENT_FRAUD_DETECTION--ML
 Objective
+
 Create a machine learning system to detect and prevent fraudulent online transactions.
 
+
 Summary
+
 Using a Kaggle dataset, this project involves:
 
 Gathering and cleaning transaction data.
@@ -12,10 +15,13 @@ Addressing class imbalance using techniques like SMOTE.
 Training models on historical data and validating them using cross-validation.
 Integrating a real-time detection model to flag suspicious transactions.
 Assessing model performance using metrics such as accuracy, precision, and recall.
+
 Problem Statement
+
 With the rise in online transactions, fraudulent activities have also increased, leading to significant financial losses and reputational damage for businesses. Therefore, a robust system to detect and prevent fraud in real-time has become critical.
 
 Dataset
+
 The dataset used in this project is sourced from Kaggle and contains transaction data with the following features:
 
 Step: Unit of time.
